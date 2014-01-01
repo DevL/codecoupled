@@ -4,7 +4,7 @@
   <title><![CDATA[Category: TDD | Codecoupled]]></title>
   <link href="http://DevL.github.io/codecoupled/blog/categories/tdd/atom.xml" rel="self"/>
   <link href="http://DevL.github.io/codecoupled/"/>
-  <updated>2014-01-01T22:37:31+01:00</updated>
+  <updated>2014-01-01T22:40:58+01:00</updated>
   <id>http://DevL.github.io/codecoupled/</id>
   <author>
     <name><![CDATA[Kim Persson and Lennart Fridén]]></name>
@@ -18,7 +18,9 @@
     <link href="http://DevL.github.io/codecoupled/blog/2013/12/27/tdd-as-if-you-meant-it/"/>
     <updated>2013-12-27T13:12:43+01:00</updated>
     <id>http://DevL.github.io/codecoupled/blog/2013/12/27/tdd-as-if-you-meant-it</id>
-    <content type="html"><![CDATA[
+    <content type="html"><![CDATA[<p><code>ruby
+  some random code here
+</code></p>
 ]]></content>
   </entry>
   
