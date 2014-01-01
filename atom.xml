@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Codecoupled]]></title>
-  <link href="http://codecoupled.org/codecoupled/atom.xml" rel="self"/>
-  <link href="http://codecoupled.org/codecoupled/"/>
-  <updated>2014-01-01T22:19:35+01:00</updated>
-  <id>http://codecoupled.org/codecoupled/</id>
+  <link href="http://DevL.github.io/codecoupled/atom.xml" rel="self"/>
+  <link href="http://DevL.github.io/codecoupled/"/>
+  <updated>2014-01-01T22:21:21+01:00</updated>
+  <id>http://DevL.github.io/codecoupled/</id>
   <author>
     <name><![CDATA[Kim Persson and Lennart Fridén]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[TDD as if You Meant It]]></title>
-    <link href="http://codecoupled.org/codecoupled/blog/2013/12/27/tdd-as-if-you-meant-it/"/>
+    <link href="http://DevL.github.io/codecoupled/blog/2013/12/27/tdd-as-if-you-meant-it/"/>
     <updated>2013-12-27T13:12:43+01:00</updated>
-    <id>http://codecoupled.org/codecoupled/blog/2013/12/27/tdd-as-if-you-meant-it</id>
+    <id>http://DevL.github.io/codecoupled/blog/2013/12/27/tdd-as-if-you-meant-it</id>
     <content type="html"><![CDATA[
 ]]></content>
   </entry>

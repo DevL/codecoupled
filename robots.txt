@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: http://codecoupled.org/codecoupled/sitemap.xml 
+Sitemap: http://DevL.github.io/codecoupled/sitemap.xml 
