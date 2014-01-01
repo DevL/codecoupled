@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Codecoupled]]></title>
-  <link href="http://DevL.github.io/codecoupled/atom.xml" rel="self"/>
+  <title><![CDATA[Category: Nemah | Codecoupled]]></title>
+  <link href="http://DevL.github.io/codecoupled/blog/categories/nemah/atom.xml" rel="self"/>
   <link href="http://DevL.github.io/codecoupled/"/>
   <updated>2014-01-01T23:56:30+01:00</updated>
   <id>http://DevL.github.io/codecoupled/</id>
@@ -26,37 +26,28 @@
 
 <h4>Practice in the art of saying no</h4>
 
-<p><img class="right" src="http://i60.photobucket.com/albums/h13/Forgetmenotox/Codecoupled/IMG_1983.jpg" width="200" title="&#34;Timon, the cuddle cat&#34;" alt="&#34;Timon, the cuddle cat&#34;">
+<p><img class="right <a" src="href="http://i60.photobucket.com/albums/h13/Forgetmenotox/Codecoupled/IMG_1983.jpg">http://i60.photobucket.com/albums/h13/Forgetmenotox/Codecoupled/IMG_1983.jpg</a>" width="200" title="&ldquo;Timon, the cuddle cat&rdquo;" >
 Since I can&rsquo;t have cats at home I use every opurtunity to cuddle with the stable cat, Timon. Timon is a real cuddle cat and once you start the cudlle he really, really, really wont let you go. Eventually I had to tell him to stop walking all over me, drool and purr, even though he really didn&rsquo;t want to stop.</p>
 
 <h4>Getting my feet back steady on the Earth</h4>
 
-<p><img class="right" src="http://i60.photobucket.com/albums/h13/Forgetmenotox/Codecoupled/IMG_1986.jpg" width="200" title="&#34;Many feathers, but no hen&#34;" alt="&#34;Many feathers, but no hen&#34;">
+<p><img class="right <a" src="href="http://i60.photobucket.com/albums/h13/Forgetmenotox/Codecoupled/IMG_1986.jpg">http://i60.photobucket.com/albums/h13/Forgetmenotox/Codecoupled/IMG_1986.jpg</a>" width="200" title="&ldquo;Many feathers, but no hen&rdquo;" >
 In the stable death is always close and it often make me remember how short life can be. For one of the stable hens life got even shorter when she met someone who thought her to be food. On the way to the paddock I found the only things left from that life, some feathers. I guess we all should keep in mind how short life is and try to make the best out of what you have because there is no telling when your life is at an end.</p>
 
 <h4>Patience</h4>
 
-<p><img class="right" src="http://i60.photobucket.com/albums/h13/Forgetmenotox/Codecoupled/IMG_1987.jpg" width="250" title="&#34;Injured hoof&#34;" alt="&#34;Injured hoof&#34;">
+<p><img class="right <a" src="href="http://i60.photobucket.com/albums/h13/Forgetmenotox/Codecoupled/IMG_1987.jpg">http://i60.photobucket.com/albums/h13/Forgetmenotox/Codecoupled/IMG_1987.jpg</a>" width="250" title="&ldquo;Injured hoof&rdquo;" >
 Nemah has had an injured hoof for 2.5 years and every day I have been washing it and making sure it&rsquo;s not muddy. For those of you that don&rsquo;t spend time around horses, whey are real masters of making mud and then stepping in it. There has been many times I haven&rsquo;t been able to go for a ride, or do anything else but washing the hoof, so I have learned that patience really is a virtue.</p>
 
 <h4>Seing beauty in the smallest things</h4>
 
 <p>Even a couple of fence poles just lying on the ground can be really beautiful in the right light.
-<img src="http://i60.photobucket.com/albums/h13/Forgetmenotox/Codecoupled/IMG_1985.jpg" width="250" title="&#34;fence poles in the sun&#34;" alt="&#34;fence poles in the sun&#34;"></p>
+<img class="<a" src="href="http://i60.photobucket.com/albums/h13/Forgetmenotox/Codecoupled/IMG_1985.jpg">http://i60.photobucket.com/albums/h13/Forgetmenotox/Codecoupled/IMG_1985.jpg</a>" width="250" title="&ldquo;fence poles in the sun&rdquo;" ></p>
 
 <h4>Enjoing the here and now</h4>
 
 <p>A ride with Nemah is always a pleasure. She enjoys a stroll in the woods as much as a fast canter on the sand roads. The faster we go, the more her ears are pointing forward, which means she likes what we do. But Nemah is also a very sensitive horse, with big ears and eyes. She can see and hear things I don&rsquo;t, so I must always be focused on what we do and where we are. The perfect way to stay in the moment!
 <img src="http://i60.photobucket.com/albums/h13/Forgetmenotox/Codecoupled/IMG_1989.jpg" title="Ride in the sun" alt="OmNom in the sun" /></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[TDD as if You Meant It]]></title>
-    <link href="http://DevL.github.io/codecoupled/blog/2013/12/27/tdd-as-if-you-meant-it/"/>
-    <updated>2013-12-27T13:12:43+01:00</updated>
-    <id>http://DevL.github.io/codecoupled/blog/2013/12/27/tdd-as-if-you-meant-it</id>
-    <content type="html"><![CDATA[
 ]]></content>
   </entry>
   
