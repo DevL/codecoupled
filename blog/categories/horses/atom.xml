@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Codecoupled]]></title>
-  <link href="http://DevL.github.io/codecoupled/atom.xml" rel="self"/>
+  <title><![CDATA[Category: Horses | Codecoupled]]></title>
+  <link href="http://DevL.github.io/codecoupled/blog/categories/horses/atom.xml" rel="self"/>
   <link href="http://DevL.github.io/codecoupled/"/>
   <updated>2014-01-12T17:01:25+01:00</updated>
   <id>http://DevL.github.io/codecoupled/</id>
@@ -26,37 +26,28 @@
 
 <h4>I get practice in the art of saying no</h4>
 
-<p><img class="right" src="http://i60.photobucket.com/albums/h13/Forgetmenotox/Codecoupled/IMG_1983.jpg" width="200" title="Timon, the cuddle cat" >
+<p><img class="right <a" src="href="http://i60.photobucket.com/albums/h13/Forgetmenotox/Codecoupled/IMG_1983.jpg">http://i60.photobucket.com/albums/h13/Forgetmenotox/Codecoupled/IMG_1983.jpg</a>" width="200" title="Timon, the cuddle cat" >
 Being a cat lover I take every opportunity to cuddle with the stable cat, Timon. Timon is a real cuddle cat and once you start to cuddle he really, really, really won&rsquo;t let you go. Eventually I had to tell him to stop walk all over me, drool and purr, even though he really didn&rsquo;t want to stop.</p>
 
 <h4>I get my feet back on the ground</h4>
 
-<p><img class="right" src="http://i60.photobucket.com/albums/h13/Forgetmenotox/Codecoupled/IMG_1986.jpg" width="250" title="Many feathers, but no hen" >
+<p><img class="right <a" src="href="http://i60.photobucket.com/albums/h13/Forgetmenotox/Codecoupled/IMG_1986.jpg">http://i60.photobucket.com/albums/h13/Forgetmenotox/Codecoupled/IMG_1986.jpg</a>" width="250" title="Many feathers, but no hen" >
 On occasion the environment around the stable can give you quite a chock. This day I found this very local pile of snow. When I took a closer look I realised it wasn&rsquo;t snow, it was the remains of a poor hen that stayed out to late at night and met a fox. All that was left of her where these feathers. It reminds me of how short life can be and that I really should make the most of the short time I have on this earth.</p>
 
 <h4>I practice patience</h4>
 
-<p><img class="right" src="http://i60.photobucket.com/albums/h13/Forgetmenotox/Codecoupled/IMG_1987.jpg" width="250" title="Injured hoof" >
+<p><img class="right <a" src="href="http://i60.photobucket.com/albums/h13/Forgetmenotox/Codecoupled/IMG_1987.jpg">http://i60.photobucket.com/albums/h13/Forgetmenotox/Codecoupled/IMG_1987.jpg</a>" width="250" title="Injured hoof" >
 Nemah has had an injured hoof for the last 2.5 years and every day I have been washing it and making sure it&rsquo;s not muddy. For those of you that don&rsquo;t spend time around horses, they are true masters of making mud and then stepping in it. There have been times when I haven&rsquo;t been able to do anything but wash the hoof, so I have learnt that patience really is a virtue.</p>
 
 <h4>I learn to see beauty in the smallest things</h4>
 
 <p>Even a couple of fence poles just lying on the ground can be really beautiful in the right light.<br/>
-<img src="http://i60.photobucket.com/albums/h13/Forgetmenotox/Codecoupled/IMG_1985.jpg" width="250" title="fence poles in the sun" ></p>
+<img class="<a" src="href="http://i60.photobucket.com/albums/h13/Forgetmenotox/Codecoupled/IMG_1985.jpg">http://i60.photobucket.com/albums/h13/Forgetmenotox/Codecoupled/IMG_1985.jpg</a>" width="250" title="fence poles in the sun" ></p>
 
 <h4>I get to enjoy the here and now</h4>
 
 <p>A ride with Nemah is always a pleasure. She enjoys a stroll in the woods just as much as a fast canter on the sand roads. The faster we go, the more her ears are pointing forward, a telltale sign that she is enjoing herself. But Nemah is also a very sensitive horse, with big ears and eyes. She can see and hear things I don&rsquo;t, thus making me stay focused on what we do and where we are. The perfect way to stay in the moment and let all troubles go.<br/>
-<img src="http://i60.photobucket.com/albums/h13/Forgetmenotox/Codecoupled/IMG_1989.jpg" title="Ride in the sun" ></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[TDD as if You Meant It]]></title>
-    <link href="http://DevL.github.io/codecoupled/blog/2013/12/27/tdd-as-if-you-meant-it/"/>
-    <updated>2013-12-27T13:12:43+01:00</updated>
-    <id>http://DevL.github.io/codecoupled/blog/2013/12/27/tdd-as-if-you-meant-it</id>
-    <content type="html"><![CDATA[
+<img class="<a" src="href="http://i60.photobucket.com/albums/h13/Forgetmenotox/Codecoupled/IMG_1989.jpg">http://i60.photobucket.com/albums/h13/Forgetmenotox/Codecoupled/IMG_1989.jpg</a>" title="Ride in the sun" ></p>
 ]]></content>
   </entry>
   
