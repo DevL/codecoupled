@@ -1,27 +1,27 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
-        <loc>http://DevL.github.io/codecoupled/blog/2013/12/27/tdd-as-if-you-meant-it/</loc>
-        <lastmod>2014-01-02T07:45:06+01:00</lastmod>
+        <loc>http://DevL.github.io/codecoupled/blog/2014/01/01/what-horses-give-me/</loc>
+        <lastmod>2014-02-23T00:20:12+01:00</lastmod>
     </url>
     <url>
-        <loc>http://DevL.github.io/codecoupled/blog/2014/01/01/what-horses-give-me/</loc>
-        <lastmod>2014-01-12T17:01:19+01:00</lastmod>
+        <loc>http://DevL.github.io/codecoupled/blog/2014/02/01/mob-refactoring/</loc>
+        <lastmod>2014-02-23T00:31:23+01:00</lastmod>
     </url>
     <url>
         <loc>http://DevL.github.io/codecoupled/about/</loc>
-        <lastmod>2014-01-02T07:45:10+01:00</lastmod>
+        <lastmod>2014-02-23T00:20:12+01:00</lastmod>
     </url>
     <url>
         <loc>http://DevL.github.io/codecoupled/blog/archives/</loc>
-        <lastmod>2014-01-12T17:01:19+01:00</lastmod>
+        <lastmod>2014-02-23T00:31:23+01:00</lastmod>
     </url>
     <url>
         <loc>http://DevL.github.io/codecoupled/</loc>
-        <lastmod>2014-01-12T17:01:19+01:00</lastmod>
+        <lastmod>2014-02-23T00:31:23+01:00</lastmod>
     </url>
     <url>
         <loc>http://DevL.github.io/codecoupled/robots.txt</loc>
-        <lastmod>2014-01-02T07:45:06+01:00</lastmod>
+        <lastmod>2014-02-01T19:59:54+01:00</lastmod>
     </url>
 </urlset>
