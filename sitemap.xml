@@ -2,26 +2,30 @@
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
         <loc>http://DevL.github.io/codecoupled/blog/2014/01/01/what-horses-give-me/</loc>
-        <lastmod>2014-02-23T00:39:13+01:00</lastmod>
+        <lastmod>2014-03-03T22:31:03+01:00</lastmod>
     </url>
     <url>
         <loc>http://DevL.github.io/codecoupled/blog/2014/02/01/mob-refactoring/</loc>
-        <lastmod>2014-02-23T00:39:13+01:00</lastmod>
+        <lastmod>2014-03-03T22:31:03+01:00</lastmod>
+    </url>
+    <url>
+        <loc>http://DevL.github.io/codecoupled/blog/2014/03/03/walking-the-walk/</loc>
+        <lastmod>2014-03-03T22:32:33+01:00</lastmod>
     </url>
     <url>
         <loc>http://DevL.github.io/codecoupled/about/</loc>
-        <lastmod>2014-01-02T00:07:32+01:00</lastmod>
+        <lastmod>2014-03-03T22:31:03+01:00</lastmod>
     </url>
     <url>
         <loc>http://DevL.github.io/codecoupled/blog/archives/</loc>
-        <lastmod>2014-02-23T00:39:13+01:00</lastmod>
+        <lastmod>2014-03-03T22:32:33+01:00</lastmod>
     </url>
     <url>
         <loc>http://DevL.github.io/codecoupled/</loc>
-        <lastmod>2014-02-23T00:39:13+01:00</lastmod>
+        <lastmod>2014-03-03T22:32:33+01:00</lastmod>
     </url>
     <url>
         <loc>http://DevL.github.io/codecoupled/robots.txt</loc>
-        <lastmod>2014-01-02T00:07:32+01:00</lastmod>
+        <lastmod>2014-03-03T22:31:03+01:00</lastmod>
     </url>
 </urlset>

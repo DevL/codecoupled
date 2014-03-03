@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Codecoupled]]></title>
-  <link href="http://DevL.github.io/codecoupled/atom.xml" rel="self"/>
+  <title><![CDATA[Category: Mob Programming | Codecoupled]]></title>
+  <link href="http://DevL.github.io/codecoupled/blog/categories/mob-programming/atom.xml" rel="self"/>
   <link href="http://DevL.github.io/codecoupled/"/>
   <updated>2014-03-03T22:33:20+01:00</updated>
   <id>http://DevL.github.io/codecoupled/</id>
@@ -30,7 +30,7 @@
 
 <h3>Wednesday, first day of mob programming</h3>
 
-<p>We got going at around 10 o&#8217;clock as that&rsquo;s when the entire team can be expected to be in the office. The morning was used to go through the various parts we already had, taking note of missing or poorly understood pieces and tasks. Most importantly, we settled on a bare minimum of things that had to be done before we could reach something shippable. Just before lunch we got started on the actual mob programming. A conference room, a beamer, a computer, and someone making sure that the driver was swapped every fifteen minutes. It doesn&rsquo;t take more than that to start.</p>
+<p>We got going at around 10 o'clock as that&rsquo;s when the entire team can be expected to be in the office. The morning was used to go through the various parts we already had, taking note of missing or poorly understood pieces and tasks. Most importantly, we settled on a bare minimum of things that had to be done before we could reach something shippable. Just before lunch we got started on the actual mob programming. A conference room, a beamer, a computer, and someone making sure that the driver was swapped every fifteen minutes. It doesn&rsquo;t take more than that to start.</p>
 
 <p>Shortly after lunch, one of us had to leave early, and as would be shown over and over again during our mob programming sessions, here&rsquo;s when one of mob programming&rsquo;s greatest strengths comes into play. Had the abscent team member being working alone on a task, the work would simply stop. Mob programming mitigates this problem as the rest of the mob simply continues working. It&rsquo;s similar to what would happen in a pair programming session, except that there&rsquo;s practially no degradation in performace. Phrased differently, if pair programming is RAID 1, mob programming is RAID 5 with spare disks<sup id="fnref:2"><a href="#fn:2" rel="footnote">2</a></sup>.</p>
 
@@ -48,7 +48,7 @@
 
 <p>At this point, we had really gotten into rythm of mob programming. We concluded the week with a slightly longer retrospective and hesitantly I spoke my heart&rsquo;s desire.</p>
 
-<p><img class="left" src="http://i948.photobucket.com/albums/ad326/DevLCSC/Codecoupled/IMG_1812_zpsfd729abf.jpg" width="390" title="At the end of the first week" ></p>
+<p><img class="left <a" src="href="http://i948.photobucket.com/albums/ad326/DevLCSC/Codecoupled/IMG_1812_zpsfd729abf.jpg">http://i948.photobucket.com/albums/ad326/DevLCSC/Codecoupled/IMG_1812_zpsfd729abf.jpg</a>" width="390" title="At the end of the first week" ></p>
 
 <p><em>- Well, since there&rsquo;s work still left to be done and the office will be mostly vacant next week, thus freeing up the conference room, how about extending this experiment to all of next week?</em></p>
 
@@ -66,7 +66,7 @@
 
 <p>The weekly planning meeting had us pause the ongoing work in favour of a number of smaller, but higher priority, tasks. Admittedly, for two of these, the mob turned out to be overkill and in hindsight we would probably have been better served by splitting off one or two team members to tackle the smaller tasks while keeping the mob focused on the main task. Nevertheless, it was a valuable learning experience to handle even these simple tasks as a mob.</p>
 
-<p>In the afternoon, following a failed ice cream break turned into a coffee break, an iOS developer sat in out of curiosity just as we touched upon something that required his input. While it&rsquo;s not a particular property of mob programming itself, being able to pick a stake holders&#8217; brain directly while working is not be underestimated.</p>
+<p>In the afternoon, following a failed ice cream break turned into a coffee break, an iOS developer sat in out of curiosity just as we touched upon something that required his input. While it&rsquo;s not a particular property of mob programming itself, being able to pick a stake holders' brain directly while working is not be underestimated.</p>
 
 <h3>Tuesday, fifth day of mob programming</h3>
 
@@ -78,7 +78,7 @@
 
 <h3>Wednesday, sixth day of mob programming</h3>
 
-<p><img class="right" src="http://i948.photobucket.com/albums/ad326/DevLCSC/Codecoupled/IMG_1825_zps397aea7c.jpg" width="288" title="Rotations" ></p>
+<p><img class="right <a" src="href="http://i948.photobucket.com/albums/ad326/DevLCSC/Codecoupled/IMG_1825_zps397aea7c.jpg">http://i948.photobucket.com/albums/ad326/DevLCSC/Codecoupled/IMG_1825_zps397aea7c.jpg</a>" width="288" title="Rotations" ></p>
 
 <p>Despite another round of technical problems and fiddling with editor themes to make the code visible enough we made good progress and got no fewer than twenty rotations done. The format of taking timed turns at the keyboard, rotating through the entire mob, rather than the usual ping-pong pair programming style we&rsquo;re accustomed to did not impress everyone.</p>
 
@@ -114,7 +114,7 @@
 
 <p><em>- This was fun, let&rsquo;s do it again!</em></p>
 
-<p><img src="http://i948.photobucket.com/albums/ad326/DevLCSC/Codecoupled/IMG_1827_zps2ea09470.jpg?t=1393870040" title="The team with me behind the camera" ></p>
+<p><img class="<a" src="href="http://i948.photobucket.com/albums/ad326/DevLCSC/Codecoupled/IMG_1827_zps2ea09470.jpg?t=1393870040">http://i948.photobucket.com/albums/ad326/DevLCSC/Codecoupled/IMG_1827_zps2ea09470.jpg?t=1393870040</a>" title="The team with me behind the camera" ></p>
 <div class="footnotes">
 <hr/>
 <ol>
@@ -127,77 +127,10 @@
 <li id="fn:4">
 <p>You don&rsquo;t expect a <a href="http://www.magplus.com">company building a publishing platform</a> to use email for its internal newsletter, do you?<a href="#fnref:4" rev="footnote">&#8617;</a></p></li>
 <li id="fn:5">
-<p>See <a href="http://DevL.github.io/codecoupled/blog/2014/02/01/mob-refactoring/">Mob Refactoring</a> for a record of Kim&rsquo;s experience at her work.<a href="#fnref:5" rev="footnote">&#8617;</a></p></li>
+<p>See <a href="/blog/2014/02/01/mob-refactoring/">Mob Refactoring</a> for a record of Kim&rsquo;s experience at her work.<a href="#fnref:5" rev="footnote">&#8617;</a></p></li>
 </ol>
 </div>
 
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Mob Refactoring]]></title>
-    <link href="http://DevL.github.io/codecoupled/blog/2014/02/01/mob-refactoring/"/>
-    <updated>2014-02-01T20:00:37+01:00</updated>
-    <id>http://DevL.github.io/codecoupled/blog/2014/02/01/mob-refactoring</id>
-    <content type="html"><![CDATA[<p>Today at work we tried mob refactoring, which is just like mob programming, but instead of creating new code you refactor existing code. Our goal was mostly to spread knowledge within the group, to even out the knowledge a bit and also practise refactoring. We are lucky enough to have a projector in our room so we fired it up and started.</p>
-
-<p>The thing we wanted to refactor was one of our most central classes, which has almost 300 lines of code. We decided that the most experienced refactorer would not be writing any code, he would only be a navigator, the rest of us would both drive and navigate and we changed driver every 10 minutes. We did this for about an hour.</p>
-
-<h3>Results (some of them just from my point of view)</h3>
-
-<p>All the drivers felt really stupid behind the keyboard, we stumbled on the keys and at times at least I felt like I had no idea what to do, or where to do it. However I really liked being just a stupid input device and getting to concentrate on just writing what I was told to.</p>
-
-<p>The decision to let the less experienced drive resulted in the code being written slower. That in turn gave us all a possibility to read and contemplate the code and what to do next. I have found that when a more experienced person drives there is a risk they already know exactly what to do and have done it before the lesser experienced has had the time to really grasp the problem.</p>
-
-<p>Another good thing that came out of the mob refactoring session was the friendly, constructive discussion. We shared tips and tricks about the editor, about the code and how to make it better. Some of these tips are things someone could do in a short period of time as a preparation for a future refactoring.</p>
-
-<p>At the retro we held afterward, everyone really liked the mob refactoring and we all wanted to do it again. We decided to do it every Wednesday morning for an hour.</p>
-
-<p>The only thing I found not to be as good was that we had two screens. The big one everyone was looking at, pointing at and commenting, and then the smaller one on the laptop in front of the driver. When being the driver, I sometimes got a bit confused not knowing what the others where talking about in the code since my eyes naturally was drawn to the smaller screen that was closer to me and by doing that I missed where the others where pointing .</p>
-
-<p>All in all it was a great experience and I would love to do more of it.</p>
-
-<p>If you want to read more: <br/>
-<a href="http://blog.codeclimate.com/blog/2014/01/30/mob-refactoring/">mob refactoring</a><br/>
-<a href="http://mobprogramming.org/">mob programming</a></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[What Horses Give Me]]></title>
-    <link href="http://DevL.github.io/codecoupled/blog/2014/01/01/what-horses-give-me/"/>
-    <updated>2014-01-01T22:45:25+01:00</updated>
-    <id>http://DevL.github.io/codecoupled/blog/2014/01/01/what-horses-give-me</id>
-    <content type="html"><![CDATA[<p>People often ask what I find so fantastic with horses. So I figured I could spend my first blog post letting you know some of the things that make me come back to horses again and again. This is just some of the things that happened on a rather ordinary day in the stable, but no day is the same.</p>
-
-<h4>I get to work with my body</h4>
-
-<p>Due to the last days of heavy rain, the litter in Nemah&rsquo;s box had turned really wet and it could not be saved. So I removed eight full wheelbarrows of wet litter mixed with shit and pee, and put in about 100 kg of new, fresh, clean litter. A perfect workout!</p>
-
-<h4>I get practice in the art of saying no</h4>
-
-<p><img class="right" src="http://i60.photobucket.com/albums/h13/Forgetmenotox/Codecoupled/IMG_1983.jpg" width="200" title="Timon, the cuddle cat" >
-Being a cat lover I take every opportunity to cuddle with the stable cat, Timon. Timon is a real cuddle cat and once you start to cuddle he really, really, really won&rsquo;t let you go. Eventually I had to tell him to stop walk all over me, drool and purr, even though he really didn&rsquo;t want to stop.</p>
-
-<h4>I get my feet back on the ground</h4>
-
-<p><img class="right" src="http://i60.photobucket.com/albums/h13/Forgetmenotox/Codecoupled/IMG_1986.jpg" width="250" title="Many feathers, but no hen" >
-On occasion the environment around the stable can give you quite a chock. This day I found this very local pile of snow. When I took a closer look I realised it wasn&rsquo;t snow, it was the remains of a poor hen that stayed out to late at night and met a fox. All that was left of her where these feathers. It reminds me of how short life can be and that I really should make the most of the short time I have on this earth.</p>
-
-<h4>I practice patience</h4>
-
-<p><img class="right" src="http://i60.photobucket.com/albums/h13/Forgetmenotox/Codecoupled/IMG_1987.jpg" width="250" title="Injured hoof" >
-Nemah has had an injured hoof for the last 2.5 years and every day I have been washing it and making sure it&rsquo;s not muddy. For those of you that don&rsquo;t spend time around horses, they are true masters of making mud and then stepping in it. There have been times when I haven&rsquo;t been able to do anything but wash the hoof, so I have learnt that patience really is a virtue.</p>
-
-<h4>I learn to see beauty in the smallest things</h4>
-
-<p>Even a couple of fence poles just lying on the ground can be really beautiful in the right light.<br/>
-<img src="http://i60.photobucket.com/albums/h13/Forgetmenotox/Codecoupled/IMG_1985.jpg" width="250" title="fence poles in the sun" ></p>
-
-<h4>I get to enjoy the here and now</h4>
-
-<p>A ride with Nemah is always a pleasure. She enjoys a stroll in the woods just as much as a fast canter on the sand roads. The faster we go, the more her ears are pointing forward, a telltale sign that she is enjoing herself. But Nemah is also a very sensitive horse, with big ears and eyes. She can see and hear things I don&rsquo;t, thus making me stay focused on what we do and where we are. The perfect way to stay in the moment and let all troubles go.<br/>
-<img src="http://i60.photobucket.com/albums/h13/Forgetmenotox/Codecoupled/IMG_1989.jpg" title="Ride in the sun" ></p>
 ]]></content>
   </entry>
   
