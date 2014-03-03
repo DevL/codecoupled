@@ -36,6 +36,8 @@ For example, of all my experiences during our mob programming experiment, this d
 
 At this point, we had really gotten into rythm of mob programming. We concluded the week with a slightly longer retrospective and hesitantly I spoke my heart's desire.
 
+{% img left http://i948.photobucket.com/albums/ad326/DevLCSC/Codecoupled/IMG_1812_zpsfd729abf.jpg 390 At the end of the first week %}
+
 _\- Well, since there's work still left to be done and the office will be mostly vacant next week, thus freeing up the conference room, how about extending this experiment to all of next week?_
 
 The resounding "yes" and "let's finish what we've started" I got in response almost made me wish that the weekend would pass swiftly. I took heart in that the following week would be one of mob programming.
@@ -63,6 +65,8 @@ During the daily retrospective the concern that compared to when pair programmin
 In the end we settled on the person in front of the keyboard being the tie breaker.
 
 ### Wednesday, sixth day of mob programming
+
+{% img right http://i948.photobucket.com/albums/ad326/DevLCSC/Codecoupled/IMG_1825_zps397aea7c.jpg 288 Rotations %}
 
 Despite another round of technical problems and fiddling with editor themes to make the code visible enough we made good progress and got no fewer than twenty rotations done. The format of taking timed turns at the keyboard, rotating through the entire mob, rather than the usual ping-pong pair programming style we're accustomed to did not impress everyone.
 
@@ -96,7 +100,9 @@ Nevertheless I consider the experiment to be successful beyond my wildest expect
 
 Above all, it was successful in the sense that we had fun together. At the end of the day, I can't think of higher praise to be given by a team than this:
 
-_\- This was fun, let's do it again!
+_\- This was fun, let's do it again!_
+
+{% img http://i948.photobucket.com/albums/ad326/DevLCSC/Codecoupled/IMG_1827_zps2ea09470.jpg?t=1393870040 The team with me behind the camera %}
 
 [^1]: [An introduction to mobprogramming.org](http://mobprogramming.org/mob-programming-basics/)
 [^2]: [Wikipedia on RAID](http://en.wikipedia.org/wiki/RAID).
