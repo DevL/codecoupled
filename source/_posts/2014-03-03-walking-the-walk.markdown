@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Walking the walk"
-date: 2014-03-03 08:00:00 +0100
+date: 2014-03-03 22:30:00 +0100
 comments: false
 categories: [Mob programming, Agile]
 author: Lennart Fridén
@@ -13,9 +13,9 @@ published: false
 ### Monday morning, weekly planning meeting
 _\- How about mob programming[^1] this on Wednesday?_
 
-Over the past few weeks, the team had worked in pairs on separate parts of a new system. However, the previous week had been interrupted by illness and meetings so I felt we had to pool our collective knowledge in order to grasp where we were and where we were heading. Thus, we set aside a day intent to bring everyone up to speed.
+Over the past few weeks, the team had worked in pairs on separate parts of a new system. However, the previous week had been interrupted by illness and meetings so I felt we had to pool our collective knowledge in order to grasp where we were and where we were heading. Thus, we set aside a day intent on bringing everyone up to speed.
 
-The days before the scheduled mob programming session seemed to me ever so slow. I didn't feel exceptionally motivated in general and despite my intentions I never took the initative to pair program. Pleasently enough I was ambushed by our most recent addition to the team with a "I'm going to pair with you now". It's really not more difficult than that. 
+The days before the scheduled mob programming session seemed to me ever so slow. I didn't feel exceptionally motivated in general and despite my best intentions I never took the initative to pair program. Pleasently enough I was ambushed by our most recent addition to the team with a "I'm going to pair with you now". It's really not more difficult than that. 
 
 ### Wednesday, first day of mob programming
 We got going at around 10 o'clock as that's when the entire team can be expected to be in the office. The morning was used to go through the various parts we already had, taking note of missing or poorly understood pieces and tasks. Most importantly, we settled on a bare minimum of things that had to be done before we could reach something shippable. Just before lunch we got started on the actual mob programming. A conference room, a beamer, a computer, and someone making sure that the driver was swapped every fifteen minutes. It doesn't take more than that to start.
@@ -52,13 +52,13 @@ _\- We don't need to open a pull request._
 
 Over the weekend a team member fell ill, but we regained another so on the whole the mob remained four strong. One of the first things pointed out to us by the returning team member was that we really didn't have to use a feature branch as there was no branching going on, especially as the new app was yet to be deployed to production.
 
-The weekly planning meeting had us pause the ongoing work in favour of a number of smaller, but higher priority tasks. Admittedly, for two out of these, the mob turned out to be overkill and in hindsight we would probably have been better served by splitting off one or two team members to tackle them while keeping the mob focused on the main task. Nevertheless, it was a valuable learning experience to handle even these simple tasks as a mob.
+The weekly planning meeting had us pause the ongoing work in favour of a number of smaller, but higher priority, tasks. Admittedly, for two of these, the mob turned out to be overkill and in hindsight we would probably have been better served by splitting off one or two team members to tackle the smaller tasks while keeping the mob focused on the main task. Nevertheless, it was a valuable learning experience to handle even these simple tasks as a mob.
 
 In the afternoon, following a failed ice cream break turned into a coffee break, an iOS developer sat in out of curiosity just as we touched upon something that required his input. While it's not a particular property of mob programming itself, being able to pick a stake holders' brain directly while working is not be underestimated.
 
 ### Tuesday, fifth day of mob programming
 
-Tuesday saw us returning to the main task in earnest. The day started slowly with various technical hickups during setup wasting time. In hindsight, I cannot stress the value of having a good setup when mob programming, but at the time we deemed what we had to be good enough for the experiment.
+Tuesday saw us returning to the main task in earnest. The day started slowly with various technical hickups during setup, wasting time. In hindsight, I cannot stress the value of having a good setup when mob programming, but at the time we deemed what we had to be good enough for the experiment.
 
 During the daily retrospective the concern that compared to when pair programming, it took longer time to agree on what to focus on and make decisions. The counter point was made that consensus is worth taking time and that any decision thusly made would be stronger.
 
