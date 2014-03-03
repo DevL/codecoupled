@@ -108,4 +108,4 @@ _\- This was fun, let's do it again!_
 [^2]: [Wikipedia on RAID](http://en.wikipedia.org/wiki/RAID).
 [^3]: Somewhat paraphrased and abbreviated, but accurate enough.
 [^4]: You don't expect a [company building a publishing platform](http://www.magplus.com) to use email for its internal newsletter, do you?
-[^5]: See [Mob refactoring](/blog/2014/02/01/mob-refactoring/) for a record of Kim's experience at her work.
+[^5]: See [Mob Refactoring](/blog/2014/02/01/mob-refactoring/) for a record of Kim's experience at her work.
