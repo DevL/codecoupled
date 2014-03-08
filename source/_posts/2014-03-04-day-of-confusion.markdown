@@ -65,7 +65,7 @@ For me, who hoped for a clear reason to her problems, be it good or not, this wa
 
 
 [^1]: [Longeing](http://en.wikipedia.org/wiki/Longeing)
-[^2]: [Hock](http://en.wikipedia.org/wiki/Hock_(anatomy))
+[^2]: [Hock](http://en.wikipedia.org/wiki/Hock_(anatomy)
 [^3]: [Navicular](http://en.wikipedia.org/wiki/Navicular_syndrome)
 [^4]: [Spavin](http://en.wikipedia.org/wiki/Bone_spavin)
 [^5]: [Sidebone](http://en.wikipedia.org/wiki/Sidebone)
