@@ -2,38 +2,42 @@
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
         <loc>http://DevL.github.io/codecoupled/blog/2014/01/01/what-horses-give-me/</loc>
-        <lastmod>2014-02-23T00:20:12+01:00</lastmod>
+        <lastmod>2014-07-01T18:12:58+02:00</lastmod>
     </url>
     <url>
         <loc>http://DevL.github.io/codecoupled/blog/2014/02/01/mob-refactoring/</loc>
-        <lastmod>2014-02-23T00:31:23+01:00</lastmod>
+        <lastmod>2014-07-01T18:12:58+02:00</lastmod>
     </url>
     <url>
         <loc>http://DevL.github.io/codecoupled/blog/2014/03/03/walking-the-walk/</loc>
-        <lastmod>2014-03-04T14:26:04+01:00</lastmod>
+        <lastmod>2014-07-01T18:12:58+02:00</lastmod>
     </url>
     <url>
         <loc>http://DevL.github.io/codecoupled/blog/2014/03/04/day-of-confusion/</loc>
-        <lastmod>2014-03-08T11:21:25+01:00</lastmod>
+        <lastmod>2014-07-01T18:12:58+02:00</lastmod>
     </url>
     <url>
         <loc>http://DevL.github.io/codecoupled/blog/2014/03/25/saving-princess-nemah/</loc>
-        <lastmod>2014-03-28T21:34:36+01:00</lastmod>
+        <lastmod>2014-07-01T18:12:58+02:00</lastmod>
+    </url>
+    <url>
+        <loc>http://DevL.github.io/codecoupled/blog/2014/07/01/true-north/</loc>
+        <lastmod>2014-07-01T18:12:58+02:00</lastmod>
     </url>
     <url>
         <loc>http://DevL.github.io/codecoupled/about/</loc>
-        <lastmod>2014-02-23T00:20:12+01:00</lastmod>
+        <lastmod>2014-07-01T18:12:58+02:00</lastmod>
     </url>
     <url>
         <loc>http://DevL.github.io/codecoupled/blog/archives/</loc>
-        <lastmod>2014-03-28T21:34:36+01:00</lastmod>
+        <lastmod>2014-07-01T18:12:58+02:00</lastmod>
     </url>
     <url>
         <loc>http://DevL.github.io/codecoupled/</loc>
-        <lastmod>2014-03-28T21:34:36+01:00</lastmod>
+        <lastmod>2014-07-01T18:12:58+02:00</lastmod>
     </url>
     <url>
         <loc>http://DevL.github.io/codecoupled/robots.txt</loc>
-        <lastmod>2014-02-01T19:59:54+01:00</lastmod>
+        <lastmod>2014-07-01T18:12:58+02:00</lastmod>
     </url>
 </urlset>
